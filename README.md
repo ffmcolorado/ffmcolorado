@@ -17,4 +17,4 @@ Nas horas vagas, gerencio uma liga de **Automobilismo Virtual** e sou um grande 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffmcolorado&layout=compact&theme=vision-color)
 
 ### 📫 Como me encontrar:
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) | [E-mail](mailto:felipe.fmoschen@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/felipe-furlan-moschen-104a22a5/) | [E-mail](mailto:felipe.fmoschen@gmail.com)
